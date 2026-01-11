@@ -60,9 +60,3 @@ AWS Console screenshots are available in the `/screenshots` folder.
 - Add VPC Endpoints to access AWS services privately without using a NAT Gateway
 - Implement Infrastructure as Code (IaC) using Terraform
 - Add monitoring and logging using Amazon CloudWatch
-
----
-
-## Author
-**Snesh Subbiah Raj**  
-Aspiring DevOps / Cloud Engineer
